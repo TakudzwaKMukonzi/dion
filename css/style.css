@@ -15,7 +15,7 @@ nav{
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	padding-top: 40px;
+	padding-top: 45px;
 	padding-left: 8%;
 	padding-right: 8%;
 }
@@ -138,7 +138,7 @@ h4{
 	text-transform: capitalize;
 }
 .about-text p{
-	color: #fcfc;
+	color: #FFFFFF;
 	letter-spacing: 1px;
 	line-height: 28px;
 	font-size: 18px;
@@ -198,19 +198,19 @@ button:hover{
 
 }
 h5{
-	color: white;
+	color:#FFFFFF;
 	font-size: 23px;
 	margin-bottom: 15px;
 }
 .pra p{
-	color: #fcfc;
+	color: #FFFFFF;
 	font-size: 16px;
 	line-height: 27px;
 	margin-bottom: 25px;
 }
 .card .button{
 	background-color:#FFD700;
-	color: white;
+	color:#FFFFFF;
 	text-decoration: none;
 	border: 2px solid transparent;
 	font-weight: bold;
